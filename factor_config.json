@@ -1,0 +1,43 @@
+{
+  "version": "2.0",
+  "updated": "2026-08-19",
+  "description": "统一因子配置 — 消除后端FTS与PTrade v3.1-A双体系分裂",
+  "blend_ratio": {
+    "v31a": 0.50,
+    "qp": 0.50
+  },
+  "factor_groups": {
+    "v31a": {
+      "description": "v3.1-A 五因子（PTrade端计算，等权）",
+      "factors": [
+        {"name": "vol_reversion", "display": "波动率回归", "weight": 0.20, "source": "ptrade"},
+        {"name": "momentum", "display": "动量", "weight": 0.20, "source": "ptrade"},
+        {"name": "five_dim", "display": "五维动量", "weight": 0.20, "source": "ptrade"},
+        {"name": "ma_trend", "display": "MA趋势", "weight": 0.20, "source": "ptrade"},
+        {"name": "vol_momentum", "display": "量价动量", "weight": 0.20, "source": "ptrade"}
+      ]
+    },
+    "qp": {
+      "description": "QUANT PRO 五因子（后端+PTrade双端计算）",
+      "factors": [
+        {"name": "xsmom", "display": "超额动量", "weight": 0.25, "source": "both"},
+        {"name": "lowvol", "display": "低波动", "weight": 0.20, "source": "both"},
+        {"name": "vpcorr", "display": "量价相关", "weight": 0.20, "source": "both"},
+        {"name": "trend", "display": "趋势", "weight": 0.20, "source": "both"},
+        {"name": "bias", "display": "乖离", "weight": 0.15, "source": "both"}
+      ]
+    }
+  },
+  "risk_params": {
+    "stop_loss_pct": 6,
+    "max_drawdown_pause": 12,
+    "max_drawdown_halve": 20,
+    "trailing_activate": 5,
+    "trailing_drawback": 5,
+    "min_score": 45,
+    "sell_rank": 8,
+    "cooldown_days": 5,
+    "position_ratio": 0.5,
+    "take_profit_tiers": [[15, 0.3], [25, 0.3], [35, 1.0]]
+  }
+}
