@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>跨市场ETF Top3轮动 · 策略回测报告</title>
+<style>
+  body{font-family:"Microsoft YaHei",sans-serif;background:#0b0f14;color:#e2e8f0;margin:0;padding:32px 24px}
+  .wrap{max-width:1000px;margin:0 auto}
+  h1{font-size:22px;color:#fff;border-bottom:1px solid rgba(255,255,255,.12);padding-bottom:12px}
+  h2{font-size:16px;color:#60a5fa;margin-top:28px}
+  .cards{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
+  .card{flex:1;min-width:140px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);
+       border-radius:10px;padding:14px 16px}
+  .card .v{font-size:22px;font-weight:700;color:#34d399}
+  .card .v.red{color:#f87171}
+  .card .l{font-size:12px;color:#94a3b8;margin-top:4px}
+  table{width:100%;border-collapse:collapse;margin-top:12px;font-size:13px}
+  th,td{padding:8px 10px;text-align:left;border-bottom:1px solid rgba(255,255,255,.07)}
+  th{color:#94a3b8;font-weight:500;background:rgba(255,255,255,.03)}
+  .pos{color:#34d399}.neg{color:#f87171}
+  .note{font-size:12px;color:#94a3b8;line-height:1.9;background:rgba(250,204,21,.06);
+        border-left:3px solid #facc15;padding:12px 14px;border-radius:6px;margin-top:16px}
+  .warn{font-size:12px;color:#94a3b8;line-height:1.9;background:rgba(239,68,68,.06);
+        border-left:3px solid #ef4444;padding:12px 14px;border-radius:6px;margin-top:16px}
+  .legend{display:flex;gap:20px;font-size:12px;color:#94a3b8;margin:10px 2px}
+  .legend span{display:flex;align-items:center;gap:6px}
+  .dot{width:14px;height:3px;border-radius:2px;display:inline-block}
+</style></head><body><div class="wrap">
+<h1>跨市场 ETF Top3 轮动策略 · 回测报告</h1>
+<p style="color:#94a3b8;font-size:13px">策略：FTS 五因子（IC加权）评分，Top3 持仓轮动，掉出前 8 名卖出，止损 6% + 追踪止盈 5% + 分批止盈<br>
+回测区间：2024-10-23 ~ 2026-08-13（438 个交易日）· 成交：T-1打分/T日开盘 · 佣金万0.5 · 滑点0.2%</p>
+
+<div class="cards">
+  <div class="card"><div class="v">52.10%</div><div class="l">策略总收益</div></div>
+  <div class="card"><div class="v">27.29%</div><div class="l">年化收益</div></div>
+  <div class="card"><div class="v red">11.64%</div><div class="l">最大回撤</div></div>
+  <div class="card"><div class="v">1.36</div><div class="l">夏普比率</div></div>
+  <div class="card"><div class="v">23.6%</div><div class="l">胜率</div></div>
+  <div class="card"><div class="v">38.39%</div><div class="l red2" style="color:#60a5fa">同期等权基准</div></div>
+</div>
+
+<h2>净值曲线（归一化 100 起点）</h2>
+<div class="legend">
+  <span><span class="dot" style="background:#3b82f6"></span>策略</span>
+  <span><span class="dot" style="background:#64748b"></span>等权买入持有</span>
+</div>
+<svg viewBox="0 0 920 340" width="100%" style="background:rgba(255,255,255,.02);border-radius:10px;border:1px solid rgba(255,255,255,.07)">
+  <polyline points= + bh_pts +  fill="none" stroke="#64748b" stroke-width="2" opacity="0.8"/>
+  <polyline points= + strat_pts +  fill="none" stroke="#3b82f6" stroke-width="2.5"/>
+</svg>
+
+<h2>年度收益分解</h2>
+<table>
+  <tr><th>年度</th><th>收益</th><th>年内最大回撤</th></tr>
+
+  <tr><td>2024（10-12月）</td><td class="neg">-1.91%</td><td>5.02%</td></tr>
+  <tr><td>2025</td><td class="pos">+33.48%</td><td>10.57%</td></tr>
+  <tr><td>2026（至8月）</td><td class="pos">+18.04%</td><td>11.64%</td></tr>
+
+</table>
+
+<h2>月度净值（每月末）</h2>
+<table>
+  <tr><th>月份</th><th>净值</th></tr>
+  <tr><td>2024-10</td><td>984296.9000</td></tr>  <tr><td>2024-11</td><td>973707.2000</td></tr>  <tr><td>2024-12</td><td>978596.4100</td></tr>  <tr><td>2025-01</td><td>1003124.9900</td></tr>  <tr><td>2025-02</td><td>1025764.8400</td></tr>  <tr><td>2025-03</td><td>1051122.8400</td></tr>  <tr><td>2025-04</td><td>1038676.4400</td></tr>  <tr><td>2025-05</td><td>1072367.2000</td></tr>  <tr><td>2025-06</td><td>1092528.6700</td></tr>  <tr><td>2025-07</td><td>1159407.9200</td></tr>  <tr><td>2025-08</td><td>1272169.7200</td></tr>  <tr><td>2025-09</td><td>1326316.3200</td></tr>  <tr><td>2025-10</td><td>1393153.5300</td></tr>  <tr><td>2025-11</td><td>1297968.7800</td></tr>  <tr><td>2025-12</td><td>1298726.9700</td></tr>  <tr><td>2026-01</td><td>1423644.6400</td></tr>  <tr><td>2026-02</td><td>1403882.8700</td></tr>  <tr><td>2026-03</td><td>1380831.5300</td></tr>  <tr><td>2026-04</td><td>1400863.4900</td></tr>  <tr><td>2026-05</td><td>1550682.4900</td></tr>  <tr><td>2026-06</td><td>1528143.4300</td></tr>  <tr><td>2026-07</td><td>1479483.6100</td></tr>  <tr><td>2026-08</td><td>1521010.2100</td></tr>
+</table>
+
+<h2>标的池（10 只跨市场 ETF）</h2>
+<table>
+  <tr><th>代码</th><th>名称</th><th>类别</th><th>T+N</th></tr>
+  <tr><td>510300</td><td>沪深300ETF</td><td>A股宽基</td><td>T+1</td></tr>
+  <tr><td>159915</td><td>创业板ETF</td><td>A股宽基</td><td>T+1</td></tr>
+  <tr><td>515080</td><td>红利ETF</td><td>A股宽基</td><td>T+1</td></tr>
+  <tr><td>513100</td><td>纳指100ETF</td><td>跨境</td><td>T+0</td></tr>
+  <tr><td>513500</td><td>标普500ETF</td><td>跨境</td><td>T+0</td></tr>
+  <tr><td>513520</td><td>日经225ETF</td><td>跨境</td><td>T+0</td></tr>
+  <tr><td>513030</td><td>德国30ETF</td><td>跨境</td><td>T+0</td></tr>
+  <tr><td>159920</td><td>恒生ETF</td><td>跨境</td><td>T+0</td></tr>
+  <tr><td>159934</td><td>黄金ETF</td><td>商品</td><td>T+0</td></tr>
+  <tr><td>159518</td><td>油气ETF</td><td>商品</td><td>T+0</td></tr>
+</table>
+
+<div class="note"><b>说明：</b>本回测为本地严格复现（T-1 收盘打分、T 日开盘价成交、佣金万0.5、滑点0.2%单边）。
+同一区间等权买入持有基准收益 38.39%（回撤 13.12%），
+策略跑赢基准约 13.7 个百分点且回撤更低。</div>
+
+<div class="warn"><b>风险提示：</b>该策略收益高度依赖牛市环境（2025 +33%、2026 +18% 为主要贡献，2024 年微亏 1.9%）。
+在含 2022 熊市的长区间回测中表现平庸；胜率仅约 24%（依赖盈亏比）。
+历史回测不代表未来收益，实盘存在滑点放大、流动性、停牌等风险。</div>
+
+</div></body></html>
