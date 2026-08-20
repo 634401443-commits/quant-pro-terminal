@@ -1,0 +1,270 @@
+[
+  {
+    "period": "2024年9月底大涨",
+    "desc": "政策利好驱动的快速上涨行情",
+    "start": "2024-09-20",
+    "end": "2024-10-10",
+    "etf_results": [
+      {
+        "code": "510300",
+        "name": "沪深300ETF",
+        "return": 26.51,
+        "max_dd": -9.28,
+        "volatility": 80.78,
+        "max_daily_drop": -9.28,
+        "days": 10
+      },
+      {
+        "code": "159915",
+        "name": "创业板ETF",
+        "return": 44.16,
+        "max_dd": -18.82,
+        "volatility": 170.44,
+        "max_daily_drop": -16.28,
+        "days": 10
+      },
+      {
+        "code": "515080",
+        "name": "红利ETF",
+        "return": 16.34,
+        "max_dd": -8.67,
+        "volatility": 70.06,
+        "max_daily_drop": -8.67,
+        "days": 10
+      },
+      {
+        "code": "513100",
+        "name": "纳指ETF",
+        "return": 0.0,
+        "max_dd": -3.17,
+        "volatility": 17.75,
+        "max_daily_drop": -2.15,
+        "days": 10
+      },
+      {
+        "code": "513500",
+        "name": "标普500ETF",
+        "return": -0.71,
+        "max_dd": -4.1,
+        "volatility": 16.5,
+        "max_daily_drop": -1.49,
+        "days": 10
+      },
+      {
+        "code": "513520",
+        "name": "日经ETF",
+        "return": -2.4,
+        "max_dd": -3.53,
+        "volatility": 14.42,
+        "max_daily_drop": -1.22,
+        "days": 10
+      },
+      {
+        "code": "513030",
+        "name": "德国ETF",
+        "return": 0.64,
+        "max_dd": -3.17,
+        "volatility": 20.84,
+        "max_daily_drop": -3.17,
+        "days": 10
+      },
+      {
+        "code": "159920",
+        "name": "恒生ETF",
+        "return": 16.62,
+        "max_dd": -5.09,
+        "volatility": 46.27,
+        "max_daily_drop": -5.09,
+        "days": 10
+      },
+      {
+        "code": "159934",
+        "name": "黄金ETF",
+        "return": 0.2,
+        "max_dd": -1.95,
+        "volatility": 10.53,
+        "max_daily_drop": -1.34,
+        "days": 10
+      },
+      {
+        "code": "159518",
+        "name": "油气ETF",
+        "return": 3.14,
+        "max_dd": -5.13,
+        "volatility": 43.76,
+        "max_daily_drop": -2.57,
+        "days": 10
+      }
+    ],
+    "worst3": {
+      "worst3": [
+        {
+          "code": "159915",
+          "name": "创业板ETF",
+          "max_dd": -18.82,
+          "return": 44.16
+        },
+        {
+          "code": "510300",
+          "name": "沪深300ETF",
+          "max_dd": -9.28,
+          "return": 26.51
+        },
+        {
+          "code": "515080",
+          "name": "红利ETF",
+          "max_dd": -8.67,
+          "return": 16.34
+        }
+      ],
+      "avg_max_dd": -12.26,
+      "avg_return": 29.0
+    }
+  },
+  {
+    "period": "2024年1-2月小盘暴跌",
+    "desc": "小盘股流动性危机引发的快速下跌",
+    "start": "2024-01-05",
+    "end": "2024-02-08",
+    "etf_results": [
+      {
+        "code": "510300",
+        "name": "沪深300ETF",
+        "return": 1.12,
+        "max_dd": -4.71,
+        "volatility": 21.24,
+        "max_daily_drop": -2.43,
+        "days": 25
+      },
+      {
+        "code": "159915",
+        "name": "创业板ETF",
+        "return": -2.72,
+        "max_dd": -12.93,
+        "volatility": 34.28,
+        "max_daily_drop": -3.48,
+        "days": 25
+      },
+      {
+        "code": "515080",
+        "name": "红利ETF",
+        "return": 3.1,
+        "max_dd": -7.39,
+        "volatility": 24.41,
+        "max_daily_drop": -3.96,
+        "days": 25
+      },
+      {
+        "code": "513100",
+        "name": "纳指ETF",
+        "return": 11.22,
+        "max_dd": -3.1,
+        "volatility": 20.76,
+        "max_daily_drop": -2.17,
+        "days": 25
+      },
+      {
+        "code": "513500",
+        "name": "标普500ETF",
+        "return": 10.3,
+        "max_dd": -1.25,
+        "volatility": 13.83,
+        "max_daily_drop": -0.84,
+        "days": 25
+      },
+      {
+        "code": "513520",
+        "name": "日经ETF",
+        "return": 7.15,
+        "max_dd": -16.28,
+        "volatility": 58.44,
+        "max_daily_drop": -8.06,
+        "days": 25
+      },
+      {
+        "code": "513030",
+        "name": "德国ETF",
+        "return": 1.83,
+        "max_dd": -3.17,
+        "volatility": 18.53,
+        "max_daily_drop": -2.09,
+        "days": 25
+      },
+      {
+        "code": "159920",
+        "name": "恒生ETF",
+        "return": -3.57,
+        "max_dd": -9.39,
+        "volatility": 28.89,
+        "max_daily_drop": -3.92,
+        "days": 25
+      },
+      {
+        "code": "159934",
+        "name": "黄金ETF",
+        "return": 0.0,
+        "max_dd": -1.5,
+        "volatility": 6.07,
+        "max_daily_drop": -0.82,
+        "days": 25
+      },
+      {
+        "code": "159518",
+        "name": "油气ETF",
+        "return": -3.25,
+        "max_dd": -5.76,
+        "volatility": 18.13,
+        "max_daily_drop": -3.09,
+        "days": 25
+      }
+    ],
+    "worst3": {
+      "worst3": [
+        {
+          "code": "513520",
+          "name": "日经ETF",
+          "max_dd": -16.28,
+          "return": 7.15
+        },
+        {
+          "code": "159915",
+          "name": "创业板ETF",
+          "max_dd": -12.93,
+          "return": -2.72
+        },
+        {
+          "code": "159920",
+          "name": "恒生ETF",
+          "max_dd": -9.39,
+          "return": -3.57
+        }
+      ],
+      "avg_max_dd": -12.87,
+      "avg_return": 0.29
+    }
+  },
+  {
+    "period": "2022年4月上海封控",
+    "desc": "疫情封控导致的市场恐慌性下跌",
+    "start": "2022-03-15",
+    "end": "2022-04-29",
+    "etf_results": [],
+    "worst3": null
+  },
+  {
+    "period": "2020年3月全球疫情",
+    "desc": "新冠疫情引发的全球资产抛售",
+    "start": "2020-02-20",
+    "end": "2020-03-23",
+    "etf_results": [],
+    "worst3": null
+  },
+  {
+    "period": "2015年股灾",
+    "desc": "杠杆泡沫破裂引发的极端下跌",
+    "start": "2015-06-15",
+    "end": "2015-07-09",
+    "etf_results": [],
+    "worst3": null
+  }
+]
