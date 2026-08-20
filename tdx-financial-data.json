@@ -1,0 +1,2645 @@
+{
+  "date": "2026-08-06",
+  "updateTime": "2026/8/6 12:53:18",
+  "source": "通达信",
+  "stockCount": 293,
+  "stocks": [
+    {
+      "code": "000333",
+      "name": "美的集团",
+      "roe": 5.5648,
+      "grossMargin": 25.57,
+      "netMargin": 9.809,
+      "revenueGrowth": 2.5501,
+      "profitGrowth": 0.89
+    },
+    {
+      "code": "601328",
+      "name": "交通银行",
+      "roe": 2.044,
+      "grossMargin": 0,
+      "netMargin": 37.904,
+      "revenueGrowth": 4.8875,
+      "profitGrowth": 3
+    },
+    {
+      "code": "600690",
+      "name": "海尔智家",
+      "roe": 3.8146,
+      "grossMargin": 25.34,
+      "netMargin": 6.5233,
+      "revenueGrowth": -6.865,
+      "profitGrowth": -14.73
+    },
+    {
+      "code": "600000",
+      "name": "浦发银行",
+      "roe": 2.1641,
+      "grossMargin": 0,
+      "netMargin": 39.014,
+      "revenueGrowth": 1.4176,
+      "profitGrowth": 2.22
+    },
+    {
+      "code": "600036",
+      "name": "招商银行",
+      "roe": 2.9627,
+      "grossMargin": 0,
+      "netMargin": 43.7635,
+      "revenueGrowth": 3.8077,
+      "profitGrowth": 1.43
+    },
+    {
+      "code": "600900",
+      "name": "长江电力",
+      "roe": 3.01,
+      "grossMargin": 55.65,
+      "netMargin": 38.005,
+      "revenueGrowth": 6.4428,
+      "profitGrowth": 30.11
+    },
+    {
+      "code": "601916",
+      "name": "浙商银行",
+      "roe": 2.9127,
+      "grossMargin": 0,
+      "netMargin": 35.893,
+      "revenueGrowth": 0.4969,
+      "profitGrowth": 0.95
+    },
+    {
+      "code": "000938",
+      "name": "紫光股份",
+      "roe": 5.2052,
+      "grossMargin": 12.88,
+      "netMargin": 3.4329,
+      "revenueGrowth": 34.6088,
+      "profitGrowth": 144.51
+    },
+    {
+      "code": "601166",
+      "name": "兴业银行",
+      "roe": 2.6272,
+      "grossMargin": 0,
+      "netMargin": 43.34,
+      "revenueGrowth": -1.065,
+      "profitGrowth": -0.26
+    },
+    {
+      "code": "601766",
+      "name": "中国中车",
+      "roe": 1.9428,
+      "grossMargin": 23.81,
+      "netMargin": 7.511,
+      "revenueGrowth": 10.5746,
+      "profitGrowth": 10.7
+    },
+    {
+      "code": "001965",
+      "name": "招商公路",
+      "roe": 1.8016,
+      "grossMargin": 25.87,
+      "netMargin": 42.0884,
+      "revenueGrowth": 26.8961,
+      "profitGrowth": -0.24
+    },
+    {
+      "code": "600015",
+      "name": "华夏银行",
+      "roe": 1.2513,
+      "grossMargin": 0,
+      "netMargin": 20.7944,
+      "revenueGrowth": 35.3303,
+      "profitGrowth": -1.01
+    },
+    {
+      "code": "601169",
+      "name": "北京银行",
+      "roe": 2.121,
+      "grossMargin": 0,
+      "netMargin": 41.446,
+      "revenueGrowth": 14.4334,
+      "profitGrowth": 5.67
+    },
+    {
+      "code": "300628",
+      "name": "亿联网络",
+      "roe": 6.7917,
+      "grossMargin": 65.24,
+      "netMargin": 45.7947,
+      "revenueGrowth": 18.8259,
+      "profitGrowth": 16.68
+    },
+    {
+      "code": "688009",
+      "name": "中国通号",
+      "roe": 1.0405,
+      "grossMargin": 27.42,
+      "netMargin": 9.5282,
+      "revenueGrowth": -3.5192,
+      "profitGrowth": -5.57
+    },
+    {
+      "code": "600018",
+      "name": "上港集团",
+      "roe": 2.8006,
+      "grossMargin": 39.42,
+      "netMargin": 43.3125,
+      "revenueGrowth": 8.0418,
+      "profitGrowth": 5.29
+    },
+    {
+      "code": "601288",
+      "name": "农业银行",
+      "roe": 2.3014,
+      "grossMargin": 0,
+      "netMargin": 36.644,
+      "revenueGrowth": 10.4894,
+      "profitGrowth": 4.8
+    },
+    {
+      "code": "002142",
+      "name": "宁波银行",
+      "roe": 3.2423,
+      "grossMargin": 0,
+      "netMargin": 40.571,
+      "revenueGrowth": 10.2136,
+      "profitGrowth": 10.92
+    },
+    {
+      "code": "601668",
+      "name": "中国建筑",
+      "roe": 2.7857,
+      "grossMargin": 7.93,
+      "netMargin": 3.1962,
+      "revenueGrowth": -7.8456,
+      "profitGrowth": -8.89
+    },
+    {
+      "code": "601398",
+      "name": "工商银行",
+      "roe": 2.0286,
+      "grossMargin": 0,
+      "netMargin": 38.2051,
+      "revenueGrowth": 8.2698,
+      "profitGrowth": 3.9
+    },
+    {
+      "code": "601088",
+      "name": "中国神华",
+      "roe": 2.3971,
+      "grossMargin": 32.89,
+      "netMargin": 18.9099,
+      "revenueGrowth": 1.1669,
+      "profitGrowth": -9.21
+    },
+    {
+      "code": "601939",
+      "name": "建设银行",
+      "roe": 2.3288,
+      "grossMargin": 0,
+      "netMargin": 41.0975,
+      "revenueGrowth": 11.1464,
+      "profitGrowth": 3.68
+    },
+    {
+      "code": "601857",
+      "name": "中国石油",
+      "roe": 2.9818,
+      "grossMargin": 22.92,
+      "netMargin": 7.2621,
+      "revenueGrowth": -2.214,
+      "profitGrowth": 3.07
+    },
+    {
+      "code": "601988",
+      "name": "中国银行",
+      "roe": 1.8365,
+      "grossMargin": 0,
+      "netMargin": 34.0846,
+      "revenueGrowth": 8.4382,
+      "profitGrowth": 3.95
+    },
+    {
+      "code": "601818",
+      "name": "光大银行",
+      "roe": 1.9435,
+      "grossMargin": 0,
+      "netMargin": 36.217,
+      "revenueGrowth": -3.8536,
+      "profitGrowth": -8.05
+    },
+    {
+      "code": "600674",
+      "name": "川投能源",
+      "roe": 3.1832,
+      "grossMargin": 54.05,
+      "netMargin": 445.1741,
+      "revenueGrowth": -9.5617,
+      "profitGrowth": -3.23
+    },
+    {
+      "code": "600050",
+      "name": "中国联通",
+      "roe": 1.2596,
+      "grossMargin": 23.73,
+      "netMargin": 4.7237,
+      "revenueGrowth": -0.5123,
+      "profitGrowth": -17.63
+    },
+    {
+      "code": "601816",
+      "name": "京沪高铁",
+      "roe": 1.5054,
+      "grossMargin": 45.82,
+      "netMargin": 30.2127,
+      "revenueGrowth": 3.2863,
+      "profitGrowth": 7.12
+    },
+    {
+      "code": "601229",
+      "name": "上海银行",
+      "roe": 2.4396,
+      "grossMargin": 0,
+      "netMargin": 44.6398,
+      "revenueGrowth": 4.2504,
+      "profitGrowth": 0.57
+    },
+    {
+      "code": "603288",
+      "name": "海天味业",
+      "roe": 5.8636,
+      "grossMargin": 42,
+      "netMargin": 27.0581,
+      "revenueGrowth": 8.5658,
+      "profitGrowth": 10.69
+    },
+    {
+      "code": "600519",
+      "name": "贵州茅台",
+      "roe": 10.5687,
+      "grossMargin": 89.76,
+      "netMargin": 52.2245,
+      "revenueGrowth": 6.538,
+      "profitGrowth": 1.37
+    },
+    {
+      "code": "601728",
+      "name": "中国电信",
+      "roe": 1.5821,
+      "grossMargin": 28.12,
+      "netMargin": 5.5351,
+      "revenueGrowth": -2.3158,
+      "profitGrowth": -17.62
+    },
+    {
+      "code": "601607",
+      "name": "上海医药",
+      "roe": 1.8509,
+      "grossMargin": 10.75,
+      "netMargin": 2.4582,
+      "revenueGrowth": 6.3582,
+      "profitGrowth": 12.8
+    },
+    {
+      "code": "601009",
+      "name": "南京银行",
+      "roe": 3.1472,
+      "grossMargin": 0,
+      "netMargin": 41.2214,
+      "revenueGrowth": 13.54,
+      "profitGrowth": 8.18
+    },
+    {
+      "code": "600660",
+      "name": "福耀玻璃",
+      "roe": 4.4631,
+      "grossMargin": 37.38,
+      "netMargin": 16.4459,
+      "revenueGrowth": 5.0758,
+      "profitGrowth": -15.69
+    },
+    {
+      "code": "000999",
+      "name": "华润三九",
+      "roe": 4.7376,
+      "grossMargin": 57.68,
+      "netMargin": 14.8763,
+      "revenueGrowth": 18.6204,
+      "profitGrowth": -9.16
+    },
+    {
+      "code": "300999",
+      "name": "金龙鱼",
+      "roe": 1.5251,
+      "grossMargin": 6.77,
+      "netMargin": 2.3633,
+      "revenueGrowth": 10.9216,
+      "profitGrowth": 45.68
+    },
+    {
+      "code": "600025",
+      "name": "华能水电",
+      "roe": 1.8468,
+      "grossMargin": 51.99,
+      "netMargin": 30.7358,
+      "revenueGrowth": 7.0205,
+      "profitGrowth": 1.8
+    },
+    {
+      "code": "600016",
+      "name": "民生银行",
+      "roe": 1.6565,
+      "grossMargin": 0,
+      "netMargin": 30.3818,
+      "revenueGrowth": 2.7409,
+      "profitGrowth": -10.1
+    },
+    {
+      "code": "603259",
+      "name": "药明康德",
+      "roe": 13.5915,
+      "grossMargin": 53.91,
+      "netMargin": 38.5028,
+      "revenueGrowth": 38.935,
+      "profitGrowth": 30.56
+    },
+    {
+      "code": "002415",
+      "name": "海康威视",
+      "roe": 9.4167,
+      "grossMargin": 49.97,
+      "netMargin": 19.4842,
+      "revenueGrowth": 11.9673,
+      "profitGrowth": 44.71
+    },
+    {
+      "code": "002027",
+      "name": "分众传媒",
+      "roe": 12.053,
+      "grossMargin": 68.74,
+      "netMargin": 61.2114,
+      "revenueGrowth": 2.0093,
+      "profitGrowth": 57.78
+    },
+    {
+      "code": "600941",
+      "name": "中国移动",
+      "roe": 2.084,
+      "grossMargin": 25.35,
+      "netMargin": 11.0155,
+      "revenueGrowth": 1.0305,
+      "profitGrowth": -4.17
+    },
+    {
+      "code": "688111",
+      "name": "金山办公",
+      "roe": 15.6892,
+      "grossMargin": 86.59,
+      "netMargin": 136.0731,
+      "revenueGrowth": 23.954,
+      "profitGrowth": 456.61
+    },
+    {
+      "code": "600919",
+      "name": "江苏银行",
+      "roe": 3.1026,
+      "grossMargin": 0,
+      "netMargin": 45.1817,
+      "revenueGrowth": 8.4118,
+      "profitGrowth": 8.25
+    },
+    {
+      "code": "600009",
+      "name": "上海机场",
+      "roe": 1.349,
+      "grossMargin": 24.93,
+      "netMargin": 20.0725,
+      "revenueGrowth": 0.8146,
+      "profitGrowth": 9.53
+    },
+    {
+      "code": "603369",
+      "name": "今世缘",
+      "roe": 8.0262,
+      "grossMargin": 74.4,
+      "netMargin": 32.0408,
+      "revenueGrowth": -15.2255,
+      "profitGrowth": -15.76
+    },
+    {
+      "code": "300866",
+      "name": "安克创新",
+      "roe": 4.3468,
+      "grossMargin": 43.64,
+      "netMargin": 6.1901,
+      "revenueGrowth": 26.9341,
+      "profitGrowth": -10.18
+    },
+    {
+      "code": "600926",
+      "name": "杭州银行",
+      "roe": 3.9787,
+      "grossMargin": 0,
+      "netMargin": 63.7053,
+      "revenueGrowth": 4.2888,
+      "profitGrowth": 10.09
+    },
+    {
+      "code": "600600",
+      "name": "青岛啤酒",
+      "roe": 5.7054,
+      "grossMargin": 42.74,
+      "netMargin": 17.8184,
+      "revenueGrowth": -1.5357,
+      "profitGrowth": 5.2286
+    },
+    {
+      "code": "600019",
+      "name": "宝钢股份",
+      "roe": 1.0734,
+      "grossMargin": 6.62,
+      "netMargin": 3.2657,
+      "revenueGrowth": 5.7376,
+      "profitGrowth": -8.6087
+    },
+    {
+      "code": "300832",
+      "name": "新产业",
+      "roe": 4.7445,
+      "grossMargin": 73.48,
+      "netMargin": 39.1633,
+      "revenueGrowth": 0.3401,
+      "profitGrowth": 1.0238
+    },
+    {
+      "code": "601225",
+      "name": "陕西煤业",
+      "roe": 4.2305,
+      "grossMargin": 31.12,
+      "netMargin": 17.9707,
+      "revenueGrowth": -3.0106,
+      "profitGrowth": -12.379
+    },
+    {
+      "code": "002352",
+      "name": "顺丰控股",
+      "roe": 2.5293,
+      "grossMargin": 13.74,
+      "netMargin": 3.5754,
+      "revenueGrowth": 6.1449,
+      "profitGrowth": 12.28
+    },
+    {
+      "code": "600886",
+      "name": "国投电力",
+      "roe": 2.8746,
+      "grossMargin": 45.05,
+      "netMargin": 31.0194,
+      "revenueGrowth": -4.6332,
+      "profitGrowth": 0.12
+    },
+    {
+      "code": "000895",
+      "name": "双汇发展",
+      "roe": 5.869,
+      "grossMargin": 19.7,
+      "netMargin": 8.9754,
+      "revenueGrowth": 1.9592,
+      "profitGrowth": 13.42
+    },
+    {
+      "code": "300760",
+      "name": "迈瑞医疗",
+      "roe": 5.9579,
+      "grossMargin": 61.87,
+      "netMargin": 29.0533,
+      "revenueGrowth": 1.3941,
+      "profitGrowth": -9.88
+    },
+    {
+      "code": "600809",
+      "name": "山西汾酒",
+      "roe": 12.7163,
+      "grossMargin": 75.05,
+      "netMargin": 36.2153,
+      "revenueGrowth": -9.6801,
+      "profitGrowth": -18.8
+    },
+    {
+      "code": "002304",
+      "name": "洋河股份",
+      "roe": 5.0949,
+      "grossMargin": 75.42,
+      "netMargin": 29.8514,
+      "revenueGrowth": -26.0294,
+      "profitGrowth": -32.73
+    },
+    {
+      "code": "600795",
+      "name": "国电电力",
+      "roe": 2.3193,
+      "grossMargin": 12.32,
+      "netMargin": 6.3501,
+      "revenueGrowth": -1.6176,
+      "profitGrowth": -22.45
+    },
+    {
+      "code": "600104",
+      "name": "上汽集团",
+      "roe": 1.0098,
+      "grossMargin": 12.83,
+      "netMargin": 3.1368,
+      "revenueGrowth": 0.6104,
+      "profitGrowth": 8.48
+    },
+    {
+      "code": "600011",
+      "name": "华能国际",
+      "roe": 3.2377,
+      "grossMargin": 19.52,
+      "netMargin": 11.4596,
+      "revenueGrowth": -5.8877,
+      "profitGrowth": -6.5
+    },
+    {
+      "code": "600803",
+      "name": "新奥股份",
+      "roe": 2.6819,
+      "grossMargin": 12.34,
+      "netMargin": 5.6301,
+      "revenueGrowth": -7.6489,
+      "profitGrowth": -3.62
+    },
+    {
+      "code": "000166",
+      "name": "申万宏源",
+      "roe": 2.0829,
+      "grossMargin": 0,
+      "netMargin": 44.1828,
+      "revenueGrowth": 11.7177,
+      "profitGrowth": 16.57
+    },
+    {
+      "code": "600905",
+      "name": "三峡能源",
+      "roe": 1.1662,
+      "grossMargin": 39.66,
+      "netMargin": 18.2052,
+      "revenueGrowth": -8.9178,
+      "profitGrowth": -53.43
+    },
+    {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "roe": 9.0447,
+      "grossMargin": 22.88,
+      "netMargin": 13.2879,
+      "revenueGrowth": 44.3362,
+      "profitGrowth": 100.06
+    },
+    {
+      "code": "600066",
+      "name": "宇通客车",
+      "roe": 4.1424,
+      "grossMargin": 23.56,
+      "netMargin": 11.2956,
+      "revenueGrowth": -7.9206,
+      "profitGrowth": -13.61
+    },
+    {
+      "code": "601006",
+      "name": "大秦铁路",
+      "roe": 1.4428,
+      "grossMargin": 14.52,
+      "netMargin": 13.9178,
+      "revenueGrowth": 4.3214,
+      "profitGrowth": -9.22
+    },
+    {
+      "code": "003816",
+      "name": "中国广核",
+      "roe": 2.2004,
+      "grossMargin": 39.37,
+      "netMargin": 24.9119,
+      "revenueGrowth": -13.2502,
+      "profitGrowth": -14.24
+    },
+    {
+      "code": "688271",
+      "name": "联影医疗",
+      "roe": 1.8325,
+      "grossMargin": 47.16,
+      "netMargin": 13.4973,
+      "revenueGrowth": 17.3376,
+      "profitGrowth": 7.36
+    },
+    {
+      "code": "601658",
+      "name": "邮储银行",
+      "roe": 2.2249,
+      "grossMargin": 0,
+      "netMargin": 26.8776,
+      "revenueGrowth": 7.6083,
+      "profitGrowth": 1.91
+    },
+    {
+      "code": "600415",
+      "name": "小商品城",
+      "roe": 4.2312,
+      "grossMargin": 33.78,
+      "netMargin": 21.6261,
+      "revenueGrowth": 45.2914,
+      "profitGrowth": 23.59
+    },
+    {
+      "code": "601888",
+      "name": "中国中免",
+      "roe": 4.1407,
+      "grossMargin": 33.63,
+      "netMargin": 14.0205,
+      "revenueGrowth": 0.9553,
+      "profitGrowth": 15.3
+    },
+    {
+      "code": "601018",
+      "name": "宁波港",
+      "roe": 1.438,
+      "grossMargin": 27.88,
+      "netMargin": 16.0157,
+      "revenueGrowth": 15.6485,
+      "profitGrowth": 1.16
+    },
+    {
+      "code": "601985",
+      "name": "中国核电",
+      "roe": 1.7225,
+      "grossMargin": 39.5,
+      "netMargin": 21.8732,
+      "revenueGrowth": -6.6485,
+      "profitGrowth": -32.91
+    },
+    {
+      "code": "000625",
+      "name": "长安汽车",
+      "roe": 0.4536,
+      "grossMargin": 14.08,
+      "netMargin": 0.6712,
+      "revenueGrowth": -4.2568,
+      "profitGrowth": -81.94
+    },
+    {
+      "code": "601899",
+      "name": "紫金矿业",
+      "roe": 10.4049,
+      "grossMargin": 36.33,
+      "netMargin": 25.5496,
+      "revenueGrowth": 24.7938,
+      "profitGrowth": 101.9
+    },
+    {
+      "code": "600188",
+      "name": "兖矿能源",
+      "roe": 3.8434,
+      "grossMargin": 25.92,
+      "netMargin": 15.1599,
+      "revenueGrowth": 1.8306,
+      "profitGrowth": 39.76
+    },
+    {
+      "code": "601601",
+      "name": "中国太保",
+      "roe": 3.2299,
+      "grossMargin": 0,
+      "netMargin": 11.2019,
+      "revenueGrowth": -1.2484,
+      "profitGrowth": 3.58
+    },
+    {
+      "code": "601058",
+      "name": "赛轮轮胎",
+      "roe": 4.7983,
+      "grossMargin": 26.86,
+      "netMargin": 11.3544,
+      "revenueGrowth": 12.4754,
+      "profitGrowth": 1.06
+    },
+    {
+      "code": "600233",
+      "name": "圆通速递",
+      "roe": 3.8788,
+      "grossMargin": 11.18,
+      "netMargin": 7.2727,
+      "revenueGrowth": 10.0138,
+      "profitGrowth": 62.11
+    },
+    {
+      "code": "603296",
+      "name": "华勤技术",
+      "roe": 4.035,
+      "grossMargin": 8.54,
+      "netMargin": 2.6252,
+      "revenueGrowth": 16.4239,
+      "profitGrowth": 27.5
+    },
+    {
+      "code": "600085",
+      "name": "同仁堂",
+      "roe": 3.3969,
+      "grossMargin": 41.66,
+      "netMargin": 13.2231,
+      "revenueGrowth": -11.5934,
+      "profitGrowth": -26.66
+    },
+    {
+      "code": "600406",
+      "name": "国电南瑞",
+      "roe": 1.3591,
+      "grossMargin": 25.1,
+      "netMargin": 7.79,
+      "revenueGrowth": 7.5225,
+      "profitGrowth": 7.32
+    },
+    {
+      "code": "600588",
+      "name": "用友网络",
+      "roe": -9.9708,
+      "grossMargin": 44.72,
+      "netMargin": -51.0098,
+      "revenueGrowth": 5.895,
+      "profitGrowth": 1.58
+    },
+    {
+      "code": "601318",
+      "name": "中国平安",
+      "roe": 2.479,
+      "grossMargin": 0,
+      "netMargin": 15.23,
+      "revenueGrowth": -6.1838,
+      "profitGrowth": -5.39
+    },
+    {
+      "code": "600048",
+      "name": "保利发展",
+      "roe": 0.4732,
+      "grossMargin": 13.5,
+      "netMargin": 2.6048,
+      "revenueGrowth": -15.7385,
+      "profitGrowth": -64.64
+    },
+    {
+      "code": "600426",
+      "name": "华鲁恒升",
+      "roe": 3.3208,
+      "grossMargin": 22.28,
+      "netMargin": 14.3136,
+      "revenueGrowth": 7.36,
+      "profitGrowth": 54.59
+    },
+    {
+      "code": "601618",
+      "name": "中国中冶",
+      "roe": 1.0431,
+      "grossMargin": 8.6,
+      "netMargin": 2.1405,
+      "revenueGrowth": -24.5914,
+      "profitGrowth": -4.9
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "roe": 12.0827,
+      "grossMargin": 23.93,
+      "netMargin": 16.9837,
+      "revenueGrowth": 54.8004,
+      "profitGrowth": 38.79
+    },
+    {
+      "code": "600028",
+      "name": "中国石化",
+      "roe": 2.0447,
+      "grossMargin": 19.89,
+      "netMargin": 2.7755,
+      "revenueGrowth": -3.8976,
+      "profitGrowth": 35.21
+    },
+    {
+      "code": "600570",
+      "name": "恒生电子",
+      "roe": 1.4002,
+      "grossMargin": 67.96,
+      "netMargin": 18.2514,
+      "revenueGrowth": -11.7521,
+      "profitGrowth": 322.39
+    },
+    {
+      "code": "601456",
+      "name": "国联民生",
+      "roe": 0.9374,
+      "grossMargin": 0,
+      "netMargin": 26.9381,
+      "revenueGrowth": 18.8053,
+      "profitGrowth": 32
+    },
+    {
+      "code": "688303",
+      "name": "大全能源",
+      "roe": -2.0749,
+      "grossMargin": -120.76,
+      "netMargin": -424.7528,
+      "revenueGrowth": -79.2188,
+      "profitGrowth": -43.51
+    },
+    {
+      "code": "000568",
+      "name": "泸州老窖",
+      "roe": 7.316,
+      "grossMargin": 85.82,
+      "netMargin": 46.4795,
+      "revenueGrowth": -14.1891,
+      "profitGrowth": -19.12
+    },
+    {
+      "code": "300896",
+      "name": "爱美客",
+      "roe": 3.8597,
+      "grossMargin": 92.49,
+      "netMargin": 47.4987,
+      "revenueGrowth": -4.4777,
+      "profitGrowth": -32.2
+    },
+    {
+      "code": "600585",
+      "name": "海螺水泥",
+      "roe": 0.76,
+      "grossMargin": 21.26,
+      "netMargin": 8.4488,
+      "revenueGrowth": -10.4525,
+      "profitGrowth": -18.78
+    },
+    {
+      "code": "000977",
+      "name": "浪潮信息",
+      "roe": 2.7455,
+      "grossMargin": 6.64,
+      "netMargin": 1.7053,
+      "revenueGrowth": -24.3031,
+      "profitGrowth": 31.09
+    },
+    {
+      "code": "000858",
+      "name": "五粮液",
+      "roe": 6.5041,
+      "grossMargin": 81.43,
+      "netMargin": 36.447,
+      "revenueGrowth": 33.667,
+      "profitGrowth": 79.13
+    },
+    {
+      "code": "600989",
+      "name": "宝丰能源",
+      "roe": 7.2844,
+      "grossMargin": 37.4,
+      "netMargin": 27.6553,
+      "revenueGrowth": 22.8957,
+      "profitGrowth": 50.23
+    },
+    {
+      "code": "601390",
+      "name": "中国中铁",
+      "roe": 1.1696,
+      "grossMargin": 7.93,
+      "netMargin": 2.0879,
+      "revenueGrowth": -5.458,
+      "profitGrowth": -25.2
+    },
+    {
+      "code": "601998",
+      "name": "中信银行",
+      "roe": 2.3976,
+      "grossMargin": 0,
+      "netMargin": 37.492,
+      "revenueGrowth": 5.2339,
+      "profitGrowth": 3.57
+    },
+    {
+      "code": "000708",
+      "name": "中信特钢",
+      "roe": 3.4087,
+      "grossMargin": 14.43,
+      "netMargin": 5.7459,
+      "revenueGrowth": -1.2875,
+      "profitGrowth": 5.25
+    },
+    {
+      "code": "600887",
+      "name": "伊利股份",
+      "roe": 9.4441,
+      "grossMargin": 38.37,
+      "netMargin": 15.6564,
+      "revenueGrowth": 5.4736,
+      "profitGrowth": 9.99
+    },
+    {
+      "code": "605499",
+      "name": "东鹏饮料",
+      "roe": 19.842,
+      "grossMargin": 48.36,
+      "netMargin": 23.0425,
+      "revenueGrowth": 15.8933,
+      "profitGrowth": 15.47
+    },
+    {
+      "code": "300413",
+      "name": "芒果超媒",
+      "roe": 0.8495,
+      "grossMargin": 23.31,
+      "netMargin": 6.4654,
+      "revenueGrowth": 6.3489,
+      "profitGrowth": -46.73
+    },
+    {
+      "code": "601800",
+      "name": "中国交建",
+      "roe": 1.3141,
+      "grossMargin": 10.16,
+      "netMargin": 3.4132,
+      "revenueGrowth": 0.8419,
+      "profitGrowth": -20.77
+    },
+    {
+      "code": "601919",
+      "name": "中远海控",
+      "roe": 2.5118,
+      "grossMargin": 17.24,
+      "netMargin": 13.2863,
+      "revenueGrowth": -10.6341,
+      "profitGrowth": -47.98
+    },
+    {
+      "code": "002422",
+      "name": "科伦药业",
+      "roe": 1.857,
+      "grossMargin": 45.31,
+      "netMargin": 11.0982,
+      "revenueGrowth": -2.9762,
+      "profitGrowth": -28.33
+    },
+    {
+      "code": "002311",
+      "name": "海大集团",
+      "roe": 3.5714,
+      "grossMargin": 9.92,
+      "netMargin": 3.2586,
+      "revenueGrowth": 13.1906,
+      "profitGrowth": -28.76
+    },
+    {
+      "code": "000807",
+      "name": "云铝股份",
+      "roe": 10.6372,
+      "grossMargin": 31.57,
+      "netMargin": 25.3043,
+      "revenueGrowth": 13.6841,
+      "profitGrowth": 272.05
+    },
+    {
+      "code": "603893",
+      "name": "瑞芯微",
+      "roe": 7.2332,
+      "grossMargin": 43.04,
+      "netMargin": 27.3088,
+      "revenueGrowth": 36.2152,
+      "profitGrowth": 57.15
+    },
+    {
+      "code": "600938",
+      "name": "中国海油",
+      "roe": 4.7741,
+      "grossMargin": 51.17,
+      "netMargin": 33.7563,
+      "revenueGrowth": 8.6333,
+      "profitGrowth": 7.06
+    },
+    {
+      "code": "601136",
+      "name": "首创证券",
+      "roe": 1.3153,
+      "grossMargin": 0,
+      "netMargin": 34.7622,
+      "revenueGrowth": 30.7988,
+      "profitGrowth": 30.12
+    },
+    {
+      "code": "603392",
+      "name": "万泰生物",
+      "roe": -0.3629,
+      "grossMargin": 69.86,
+      "netMargin": -8.577,
+      "revenueGrowth": 30.6321,
+      "profitGrowth": 17.09
+    },
+    {
+      "code": "601319",
+      "name": "中国人保",
+      "roe": 2.8055,
+      "grossMargin": 0,
+      "netMargin": 8.0957,
+      "revenueGrowth": -5.1428,
+      "profitGrowth": -31.1
+    },
+    {
+      "code": "601238",
+      "name": "广汽集团",
+      "roe": -0.6266,
+      "grossMargin": -0.89,
+      "netMargin": -5.8364,
+      "revenueGrowth": 1.9826,
+      "profitGrowth": -6.22
+    },
+    {
+      "code": "600918",
+      "name": "中泰证券",
+      "roe": 0.9467,
+      "grossMargin": 0,
+      "netMargin": 17.9211,
+      "revenueGrowth": 25.1367,
+      "profitGrowth": 35.1
+    },
+    {
+      "code": "002001",
+      "name": "新和成",
+      "roe": 5.3791,
+      "grossMargin": 42.88,
+      "netMargin": 29.1632,
+      "revenueGrowth": 15.7195,
+      "profitGrowth": -2.76
+    },
+    {
+      "code": "600489",
+      "name": "中金黄金",
+      "roe": 7.5424,
+      "grossMargin": 20.47,
+      "netMargin": 12.6864,
+      "revenueGrowth": 52.0092,
+      "profitGrowth": 117.13
+    },
+    {
+      "code": "002074",
+      "name": "国轩高科",
+      "roe": 0.0727,
+      "grossMargin": 16.06,
+      "netMargin": 0.2141,
+      "revenueGrowth": 29.2965,
+      "profitGrowth": -75.43
+    },
+    {
+      "code": "600027",
+      "name": "华电国际",
+      "roe": 2.5521,
+      "grossMargin": 12.63,
+      "netMargin": 8.0871,
+      "revenueGrowth": -9.4324,
+      "profitGrowth": 8.79
+    },
+    {
+      "code": "000596",
+      "name": "古井贡酒",
+      "roe": 6.28,
+      "grossMargin": 77.85,
+      "netMargin": 22.2583,
+      "revenueGrowth": -18.5904,
+      "profitGrowth": -30.63
+    },
+    {
+      "code": "600031",
+      "name": "三一重工",
+      "roe": 2.7732,
+      "grossMargin": 27.48,
+      "netMargin": 10.4973,
+      "revenueGrowth": 14.2207,
+      "profitGrowth": 0.86
+    },
+    {
+      "code": "600436",
+      "name": "片仔癀",
+      "roe": 4.9979,
+      "grossMargin": 42.18,
+      "netMargin": 26.9999,
+      "revenueGrowth": -12.7406,
+      "profitGrowth": -26.97
+    },
+    {
+      "code": "601633",
+      "name": "长城汽车",
+      "roe": 1.0718,
+      "grossMargin": 18.45,
+      "netMargin": 2.0959,
+      "revenueGrowth": 12.7196,
+      "profitGrowth": -46.01
+    },
+    {
+      "code": "002594",
+      "name": "比亚迪",
+      "roe": 1.6464,
+      "grossMargin": 18.81,
+      "netMargin": 2.6699,
+      "revenueGrowth": -11.8191,
+      "profitGrowth": -57.53
+    },
+    {
+      "code": "600030",
+      "name": "中信证券",
+      "roe": 3.1218,
+      "grossMargin": 0,
+      "netMargin": 45.1688,
+      "revenueGrowth": 40.9138,
+      "profitGrowth": 54.68
+    },
+    {
+      "code": "300015",
+      "name": "爱尔眼科",
+      "roe": 5.2448,
+      "grossMargin": 47.73,
+      "netMargin": 20.5531,
+      "revenueGrowth": 6.1458,
+      "profitGrowth": 12.7
+    },
+    {
+      "code": "601117",
+      "name": "中国化学",
+      "roe": 2.3039,
+      "grossMargin": 9.36,
+      "netMargin": 3.5789,
+      "revenueGrowth": 3.2193,
+      "profitGrowth": 2.76
+    },
+    {
+      "code": "601898",
+      "name": "中煤能源",
+      "roe": 2.372,
+      "grossMargin": 25.51,
+      "netMargin": 13.0538,
+      "revenueGrowth": -10.9474,
+      "profitGrowth": -8.66
+    },
+    {
+      "code": "601360",
+      "name": "三六零",
+      "roe": 0.373,
+      "grossMargin": 70.7,
+      "netMargin": 5.2541,
+      "revenueGrowth": 7.8957,
+      "profitGrowth": 138.19
+    },
+    {
+      "code": "600309",
+      "name": "万华化学",
+      "roe": 3.3843,
+      "grossMargin": 14.73,
+      "netMargin": 8.0694,
+      "revenueGrowth": 25.5047,
+      "profitGrowth": 29.16
+    },
+    {
+      "code": "300122",
+      "name": "智飞生物",
+      "roe": -2.4819,
+      "grossMargin": 29.16,
+      "netMargin": -18.3102,
+      "revenueGrowth": -8.6438,
+      "profitGrowth": -21.84
+    },
+    {
+      "code": "001979",
+      "name": "招商蛇口",
+      "roe": 0.0401,
+      "grossMargin": 10.19,
+      "netMargin": 0.8698,
+      "revenueGrowth": 15.7434,
+      "profitGrowth": -46.74
+    },
+    {
+      "code": "600438",
+      "name": "通威股份",
+      "roe": -6.4908,
+      "grossMargin": -4.03,
+      "netMargin": -26.509,
+      "revenueGrowth": -23.9015,
+      "profitGrowth": -5.63
+    },
+    {
+      "code": "601628",
+      "name": "中国人寿",
+      "roe": 3.2686,
+      "grossMargin": 0,
+      "netMargin": 21.5176,
+      "revenueGrowth": -15.3262,
+      "profitGrowth": -31.42
+    },
+    {
+      "code": "601059",
+      "name": "信达证券",
+      "roe": 3.8799,
+      "grossMargin": 0,
+      "netMargin": 46.3325,
+      "revenueGrowth": 19.5259,
+      "profitGrowth": -18.44
+    },
+    {
+      "code": "600221",
+      "name": "海航控股",
+      "roe": 28.2383,
+      "grossMargin": 11.87,
+      "netMargin": 9.2709,
+      "revenueGrowth": 4.9547,
+      "profitGrowth": 582.5
+    },
+    {
+      "code": "002493",
+      "name": "荣盛石化",
+      "roe": 6.2581,
+      "grossMargin": 19.69,
+      "netMargin": 8.2662,
+      "revenueGrowth": -19.1344,
+      "profitGrowth": 307.03
+    },
+    {
+      "code": "000975",
+      "name": "山金国际",
+      "roe": 8.9473,
+      "grossMargin": 40.67,
+      "netMargin": 26.006,
+      "revenueGrowth": 37.4084,
+      "profitGrowth": 100.36
+    },
+    {
+      "code": "600741",
+      "name": "华域汽车",
+      "roe": 1.8394,
+      "grossMargin": 12.13,
+      "netMargin": 3.5076,
+      "revenueGrowth": -0.9722,
+      "profitGrowth": -4.9
+    },
+    {
+      "code": "000768",
+      "name": "中航西飞",
+      "roe": 1.1007,
+      "grossMargin": 8.76,
+      "netMargin": 3.5164,
+      "revenueGrowth": -17.0195,
+      "profitGrowth": -14.73
+    },
+    {
+      "code": "600547",
+      "name": "山东黄金",
+      "roe": 3.1815,
+      "grossMargin": 18.3,
+      "netMargin": 7.501,
+      "revenueGrowth": 25.3726,
+      "profitGrowth": 66.98
+    },
+    {
+      "code": "002920",
+      "name": "德赛西威",
+      "roe": 3.0185,
+      "grossMargin": 18.6,
+      "netMargin": 7.1962,
+      "revenueGrowth": -4.3696,
+      "profitGrowth": -20.34
+    },
+    {
+      "code": "601336",
+      "name": "新华保险",
+      "roe": 5.5304,
+      "grossMargin": 0,
+      "netMargin": 29.3769,
+      "revenueGrowth": -33.7375,
+      "profitGrowth": 10.52
+    },
+    {
+      "code": "601877",
+      "name": "正泰电器",
+      "roe": 2.8157,
+      "grossMargin": 20.68,
+      "netMargin": 7.8161,
+      "revenueGrowth": 46.3261,
+      "profitGrowth": 10.45
+    },
+    {
+      "code": "600760",
+      "name": "中航沈飞",
+      "roe": 0.697,
+      "grossMargin": 10.58,
+      "netMargin": 6.3301,
+      "revenueGrowth": -55.2311,
+      "profitGrowth": -61.63
+    },
+    {
+      "code": "000157",
+      "name": "中联重科",
+      "roe": 1.5244,
+      "grossMargin": 27.69,
+      "netMargin": 7.0855,
+      "revenueGrowth": 6.8936,
+      "profitGrowth": -39.47
+    },
+    {
+      "code": "002230",
+      "name": "科大讯飞",
+      "roe": -0.9017,
+      "grossMargin": 38.97,
+      "netMargin": -3.5605,
+      "revenueGrowth": 13.2331,
+      "profitGrowth": 13.28
+    },
+    {
+      "code": "601077",
+      "name": "渝农商行",
+      "roe": 2.8195,
+      "grossMargin": 0,
+      "netMargin": 51.3569,
+      "revenueGrowth": 8.3944,
+      "profitGrowth": 5.35
+    },
+    {
+      "code": "601669",
+      "name": "中国电建",
+      "roe": 1.158,
+      "grossMargin": 10.18,
+      "netMargin": 1.8308,
+      "revenueGrowth": 1.7462,
+      "profitGrowth": -24.39
+    },
+    {
+      "code": "601868",
+      "name": "中国能建",
+      "roe": 1.1737,
+      "grossMargin": 10.8,
+      "netMargin": 2.2609,
+      "revenueGrowth": 1.6414,
+      "profitGrowth": -11.76
+    },
+    {
+      "code": "601066",
+      "name": "中信建投",
+      "roe": 2.9825,
+      "grossMargin": 0,
+      "netMargin": 47.689,
+      "revenueGrowth": 62.265,
+      "profitGrowth": 98.76
+    },
+    {
+      "code": "002532",
+      "name": "天山铝业",
+      "roe": 7.288,
+      "grossMargin": 35.61,
+      "netMargin": 26.1937,
+      "revenueGrowth": 6.5539,
+      "profitGrowth": 109.13
+    },
+    {
+      "code": "601600",
+      "name": "中国铝业",
+      "roe": 7.1058,
+      "grossMargin": 25.83,
+      "netMargin": 17.1958,
+      "revenueGrowth": 4.8488,
+      "profitGrowth": 83.84
+    },
+    {
+      "code": "600584",
+      "name": "长电科技",
+      "roe": 1.0107,
+      "grossMargin": 14.55,
+      "netMargin": 3.0409,
+      "revenueGrowth": -1.7579,
+      "profitGrowth": 36.77
+    },
+    {
+      "code": "600515",
+      "name": "海南机场",
+      "roe": 0.4704,
+      "grossMargin": 32,
+      "netMargin": 8.2829,
+      "revenueGrowth": 59.8662,
+      "profitGrowth": 1.12
+    },
+    {
+      "code": "600276",
+      "name": "恒瑞医药",
+      "roe": 3.6546,
+      "grossMargin": 86.6,
+      "netMargin": 28.0201,
+      "revenueGrowth": 12.9754,
+      "profitGrowth": 21.56
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "roe": -3.6495,
+      "grossMargin": -1.19,
+      "netMargin": -17.7561,
+      "revenueGrowth": -18.0255,
+      "profitGrowth": -37.01
+    },
+    {
+      "code": "601186",
+      "name": "中国铁建",
+      "roe": 1.2735,
+      "grossMargin": 7.86,
+      "netMargin": 2.1161,
+      "revenueGrowth": -9.8067,
+      "profitGrowth": -19.68
+    },
+    {
+      "code": "001391",
+      "name": "国货航",
+      "roe": 1.7434,
+      "grossMargin": 12.3,
+      "netMargin": 9.0463,
+      "revenueGrowth": 0.7335,
+      "profitGrowth": -18.41
+    },
+    {
+      "code": "600362",
+      "name": "江西铜业",
+      "roe": 3.4073,
+      "grossMargin": 5.07,
+      "netMargin": 2.2608,
+      "revenueGrowth": 25.3877,
+      "profitGrowth": 54.86
+    },
+    {
+      "code": "601838",
+      "name": "成都银行",
+      "roe": 3.1203,
+      "grossMargin": 0,
+      "netMargin": 50.9347,
+      "revenueGrowth": 6.5428,
+      "profitGrowth": 4.81
+    },
+    {
+      "code": "002241",
+      "name": "歌尔股份",
+      "roe": 1.3635,
+      "grossMargin": 13.77,
+      "netMargin": 2.8001,
+      "revenueGrowth": 14.4357,
+      "profitGrowth": 19.53
+    },
+    {
+      "code": "600196",
+      "name": "复星医药",
+      "roe": 1.7792,
+      "grossMargin": 49.7,
+      "netMargin": 10.7178,
+      "revenueGrowth": 6.9308,
+      "profitGrowth": 14.66
+    },
+    {
+      "code": "300498",
+      "name": "温氏股份",
+      "roe": -2.5963,
+      "grossMargin": 2.71,
+      "netMargin": -4.4373,
+      "revenueGrowth": 0.3411,
+      "profitGrowth": -152.47
+    },
+    {
+      "code": "000408",
+      "name": "藏格矿业",
+      "roe": 9.2881,
+      "grossMargin": 64.23,
+      "netMargin": 219.2844,
+      "revenueGrowth": 29.6085,
+      "profitGrowth": 110.46
+    },
+    {
+      "code": "002236",
+      "name": "大华股份",
+      "roe": 1.8318,
+      "grossMargin": 43.77,
+      "netMargin": 10.3148,
+      "revenueGrowth": 10.3293,
+      "profitGrowth": 0.72
+    },
+    {
+      "code": "600845",
+      "name": "宝信软件",
+      "roe": 3.3944,
+      "grossMargin": 30.77,
+      "netMargin": 14.5761,
+      "revenueGrowth": 4.1723,
+      "profitGrowth": -14.75
+    },
+    {
+      "code": "002648",
+      "name": "卫星化学",
+      "roe": 6.1356,
+      "grossMargin": 24.34,
+      "netMargin": 16.6996,
+      "revenueGrowth": 2.822,
+      "profitGrowth": 35.05
+    },
+    {
+      "code": "601881",
+      "name": "中国银河",
+      "roe": 2.1851,
+      "grossMargin": 0,
+      "netMargin": 45.1456,
+      "revenueGrowth": 15.6622,
+      "profitGrowth": 10.09
+    },
+    {
+      "code": "601377",
+      "name": "兴业证券",
+      "roe": 1.2675,
+      "grossMargin": 0,
+      "netMargin": 38.5564,
+      "revenueGrowth": 13.4374,
+      "profitGrowth": 47.34
+    },
+    {
+      "code": "300433",
+      "name": "蓝思科技",
+      "roe": -0.2729,
+      "grossMargin": 14.55,
+      "netMargin": -1.0234,
+      "revenueGrowth": -17.1342,
+      "profitGrowth": -131.88
+    },
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "roe": 3.5947,
+      "grossMargin": 7.58,
+      "netMargin": 3.0775,
+      "revenueGrowth": 83.6064,
+      "profitGrowth": 48.32
+    },
+    {
+      "code": "601878",
+      "name": "浙商证券",
+      "roe": 2.0169,
+      "grossMargin": 0,
+      "netMargin": 34.9079,
+      "revenueGrowth": 40.816,
+      "profitGrowth": 45.26
+    },
+    {
+      "code": "000617",
+      "name": "中油资本",
+      "roe": 1.4909,
+      "grossMargin": 57.24,
+      "netMargin": 1283.7117,
+      "revenueGrowth": 5.7652,
+      "profitGrowth": 11.67
+    },
+    {
+      "code": "002714",
+      "name": "牧原股份",
+      "roe": -1.4728,
+      "grossMargin": 5.17,
+      "netMargin": -4.0883,
+      "revenueGrowth": -17.103,
+      "profitGrowth": -126.46
+    },
+    {
+      "code": "000100",
+      "name": "TCL科技",
+      "roe": 2.488,
+      "grossMargin": 12.5,
+      "netMargin": 1.3991,
+      "revenueGrowth": 8.4309,
+      "profitGrowth": 192.94
+    },
+    {
+      "code": "601727",
+      "name": "上海电气",
+      "roe": 0.6943,
+      "grossMargin": 18.36,
+      "netMargin": 2.6676,
+      "revenueGrowth": 9.4874,
+      "profitGrowth": 1.64
+    },
+    {
+      "code": "001280",
+      "name": "中国铀业",
+      "roe": 1.2621,
+      "grossMargin": 17.53,
+      "netMargin": 6.6116,
+      "revenueGrowth": 8.6181,
+      "profitGrowth": 42.43
+    },
+    {
+      "code": "601688",
+      "name": "华泰证券",
+      "roe": 2.295,
+      "grossMargin": 0,
+      "netMargin": 46.1574,
+      "revenueGrowth": 41.4811,
+      "profitGrowth": 32.06
+    },
+    {
+      "code": "601995",
+      "name": "中金公司",
+      "roe": 2.8111,
+      "grossMargin": 0,
+      "netMargin": 40.8062,
+      "revenueGrowth": 54.2614,
+      "profitGrowth": 76.15
+    },
+    {
+      "code": "688082",
+      "name": "盛美上海",
+      "roe": 0.7693,
+      "grossMargin": 45.64,
+      "netMargin": 7.0588,
+      "revenueGrowth": 13.0622,
+      "profitGrowth": -57.69
+    },
+    {
+      "code": "600029",
+      "name": "南方航空",
+      "roe": 4.0776,
+      "grossMargin": 10.82,
+      "netMargin": 4.5017,
+      "revenueGrowth": 10.079,
+      "profitGrowth": 682.93
+    },
+    {
+      "code": "600219",
+      "name": "南山铝业",
+      "roe": 2.1898,
+      "grossMargin": 21.64,
+      "netMargin": 13.5087,
+      "revenueGrowth": 0.9547,
+      "profitGrowth": -44.29
+    },
+    {
+      "code": "600958",
+      "name": "东方证券",
+      "roe": 1.895,
+      "grossMargin": 0,
+      "netMargin": 38.8007,
+      "revenueGrowth": 5.2887,
+      "profitGrowth": 10.55
+    },
+    {
+      "code": "601901",
+      "name": "方正证券",
+      "roe": 2.8796,
+      "grossMargin": 0,
+      "netMargin": 43.9389,
+      "revenueGrowth": 14.6952,
+      "profitGrowth": 26.74
+    },
+    {
+      "code": "601127",
+      "name": "赛力斯",
+      "roe": 1.835,
+      "grossMargin": 26.24,
+      "netMargin": 2.3714,
+      "revenueGrowth": 34.4629,
+      "profitGrowth": -17.56
+    },
+    {
+      "code": "600372",
+      "name": "中航机载",
+      "roe": 0.4745,
+      "grossMargin": 25.96,
+      "netMargin": 4.9549,
+      "revenueGrowth": -1.7532,
+      "profitGrowth": 66.19
+    },
+    {
+      "code": "002371",
+      "name": "北方华创",
+      "roe": 4.245,
+      "grossMargin": 40.77,
+      "netMargin": 15.1892,
+      "revenueGrowth": 25.7961,
+      "profitGrowth": 0.02
+    },
+    {
+      "code": "300251",
+      "name": "光线传媒",
+      "roe": 0.2329,
+      "grossMargin": 44.13,
+      "netMargin": 12.5468,
+      "revenueGrowth": -93.5918,
+      "profitGrowth": -98.81
+    },
+    {
+      "code": "301236",
+      "name": "软通动力",
+      "roe": -2.9484,
+      "grossMargin": 7.78,
+      "netMargin": -4.5659,
+      "revenueGrowth": 15.7867,
+      "profitGrowth": -67.32
+    },
+    {
+      "code": "600089",
+      "name": "特变电工",
+      "roe": 2.4026,
+      "grossMargin": 21.12,
+      "netMargin": 8.5834,
+      "revenueGrowth": 6.8019,
+      "profitGrowth": 29.18
+    },
+    {
+      "code": "000776",
+      "name": "广发证券",
+      "roe": 2.8739,
+      "grossMargin": 0,
+      "netMargin": 43.7613,
+      "revenueGrowth": 64.3348,
+      "profitGrowth": 72.1
+    },
+    {
+      "code": "000063",
+      "name": "中兴通讯",
+      "roe": 1.7216,
+      "grossMargin": 28.28,
+      "netMargin": 3.7677,
+      "revenueGrowth": 6.1267,
+      "profitGrowth": -46.5
+    },
+    {
+      "code": "600010",
+      "name": "包钢股份",
+      "roe": -0.8929,
+      "grossMargin": 6.6,
+      "netMargin": -4.0741,
+      "revenueGrowth": -13.7319,
+      "profitGrowth": -8328.6
+    },
+    {
+      "code": "688472",
+      "name": "阿特斯",
+      "roe": 2.2088,
+      "grossMargin": 20.41,
+      "netMargin": 7.6068,
+      "revenueGrowth": -16.96,
+      "profitGrowth": 1106.52
+    },
+    {
+      "code": "000425",
+      "name": "徐工机械",
+      "roe": 3.3405,
+      "grossMargin": 22.05,
+      "netMargin": 7.0043,
+      "revenueGrowth": 9.2585,
+      "profitGrowth": 2.75
+    },
+    {
+      "code": "688223",
+      "name": "晶科能源",
+      "roe": -5.2769,
+      "grossMargin": 6.16,
+      "netMargin": -11.3326,
+      "revenueGrowth": -11.5238,
+      "profitGrowth": 4.56
+    },
+    {
+      "code": "601788",
+      "name": "光大证券",
+      "roe": 1.5854,
+      "grossMargin": 0,
+      "netMargin": 38.2044,
+      "revenueGrowth": 23.1007,
+      "profitGrowth": 42.94
+    },
+    {
+      "code": "688072",
+      "name": "拓荆科技",
+      "roe": 8.2355,
+      "grossMargin": 41.69,
+      "netMargin": 50.5448,
+      "revenueGrowth": 56.9673,
+      "profitGrowth": 470.63
+    },
+    {
+      "code": "688506",
+      "name": "百利天恒",
+      "roe": -12.6289,
+      "grossMargin": 54.15,
+      "netMargin": -818.8852,
+      "revenueGrowth": 40.2533,
+      "profitGrowth": -45.75
+    },
+    {
+      "code": "300059",
+      "name": "东方财富",
+      "roe": 3.9872,
+      "grossMargin": 85.71,
+      "netMargin": 351.7038,
+      "revenueGrowth": 31.0487,
+      "profitGrowth": 37.67
+    },
+    {
+      "code": "603019",
+      "name": "中科曙光",
+      "roe": 1.0174,
+      "grossMargin": 26.56,
+      "netMargin": 5.9998,
+      "revenueGrowth": 23.71,
+      "profitGrowth": 13.35
+    },
+    {
+      "code": "002736",
+      "name": "国信证券",
+      "roe": 1.5494,
+      "grossMargin": 0,
+      "netMargin": 42.7646,
+      "revenueGrowth": -4.5427,
+      "profitGrowth": -9.64
+    },
+    {
+      "code": "600061",
+      "name": "国投资本",
+      "roe": 1.3433,
+      "grossMargin": 67.84,
+      "netMargin": 3297.2354,
+      "revenueGrowth": 63.8105,
+      "profitGrowth": -29.28
+    },
+    {
+      "code": "000725",
+      "name": "京东方A",
+      "roe": 1.2619,
+      "grossMargin": 15.6,
+      "netMargin": 3.3511,
+      "revenueGrowth": 0.7951,
+      "profitGrowth": -11.77
+    },
+    {
+      "code": "600999",
+      "name": "招商证券",
+      "roe": 2.3418,
+      "grossMargin": 0,
+      "netMargin": 46.9111,
+      "revenueGrowth": 47.9585,
+      "profitGrowth": 41.69
+    },
+    {
+      "code": "601211",
+      "name": "国泰海通",
+      "roe": 1.916,
+      "grossMargin": 0,
+      "netMargin": 41.3029,
+      "revenueGrowth": 58.9069,
+      "profitGrowth": -46.4
+    },
+    {
+      "code": "603501",
+      "name": "豪威集团",
+      "roe": 1.6422,
+      "grossMargin": 29.38,
+      "netMargin": 7.6969,
+      "revenueGrowth": -0.8972,
+      "profitGrowth": -42.7
+    },
+    {
+      "code": "002049",
+      "name": "紫光国微",
+      "roe": 2.4018,
+      "grossMargin": 52.58,
+      "netMargin": 22.2341,
+      "revenueGrowth": 46.1071,
+      "profitGrowth": 179.44
+    },
+    {
+      "code": "601021",
+      "name": "春秋航空",
+      "roe": 5.3408,
+      "grossMargin": 20.05,
+      "netMargin": 16.1918,
+      "revenueGrowth": 14.1583,
+      "profitGrowth": 45.15
+    },
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "roe": 6.6845,
+      "grossMargin": 28.1,
+      "netMargin": 16.3645,
+      "revenueGrowth": 45.0885,
+      "profitGrowth": 109.86
+    },
+    {
+      "code": "000301",
+      "name": "东方盛虹",
+      "roe": 4.1074,
+      "grossMargin": 18.92,
+      "netMargin": 4.5214,
+      "revenueGrowth": 5.6518,
+      "profitGrowth": 314.75
+    },
+    {
+      "code": "601872",
+      "name": "招商轮船",
+      "roe": 6.2757,
+      "grossMargin": 41.79,
+      "netMargin": 32.4719,
+      "revenueGrowth": 52.9177,
+      "profitGrowth": 215.35
+    },
+    {
+      "code": "000963",
+      "name": "华东医药",
+      "roe": 3.9656,
+      "grossMargin": 33.94,
+      "netMargin": 8.9164,
+      "revenueGrowth": 4.1698,
+      "profitGrowth": 9.1
+    },
+    {
+      "code": "002558",
+      "name": "巨人网络",
+      "roe": 6.8145,
+      "grossMargin": 95.38,
+      "netMargin": 50.0718,
+      "revenueGrowth": 221.7004,
+      "profitGrowth": 237.25
+    },
+    {
+      "code": "600160",
+      "name": "巨化股份",
+      "roe": 5.5796,
+      "grossMargin": 34.39,
+      "netMargin": 21.6181,
+      "revenueGrowth": 3.7479,
+      "profitGrowth": 44.82
+    },
+    {
+      "code": "300033",
+      "name": "同花顺",
+      "roe": 3.1058,
+      "grossMargin": 84.99,
+      "netMargin": 24.2927,
+      "revenueGrowth": 40.8063,
+      "profitGrowth": 112.47
+    },
+    {
+      "code": "301269",
+      "name": "华大九天",
+      "roe": -1.3966,
+      "grossMargin": 78.8,
+      "netMargin": -28.4395,
+      "revenueGrowth": 9.649,
+      "profitGrowth": -852.22
+    },
+    {
+      "code": "601111",
+      "name": "中国国航",
+      "roe": 3.9614,
+      "grossMargin": 7.86,
+      "netMargin": 4.0267,
+      "revenueGrowth": 11.2762,
+      "profitGrowth": 170.74
+    },
+    {
+      "code": "688036",
+      "name": "传音控股",
+      "roe": 3.3536,
+      "grossMargin": 22,
+      "netMargin": 4.579,
+      "revenueGrowth": 24.5795,
+      "profitGrowth": 49.2
+    },
+    {
+      "code": "688126",
+      "name": "沪硅产业",
+      "roe": -2.8619,
+      "grossMargin": -11.85,
+      "netMargin": -48.7243,
+      "revenueGrowth": 35.2168,
+      "profitGrowth": -88.79
+    },
+    {
+      "code": "688981",
+      "name": "中芯国际",
+      "roe": 0.9056,
+      "grossMargin": 21.48,
+      "netMargin": 9.048,
+      "revenueGrowth": 8.0739,
+      "profitGrowth": -31.32
+    },
+    {
+      "code": "605117",
+      "name": "德业股份",
+      "roe": 10.8612,
+      "grossMargin": 41.45,
+      "netMargin": 26.6187,
+      "revenueGrowth": 73.7676,
+      "profitGrowth": 68.25
+    },
+    {
+      "code": "600026",
+      "name": "中远海能",
+      "roe": 4.5938,
+      "grossMargin": 42.66,
+      "netMargin": 31.4295,
+      "revenueGrowth": 26.9218,
+      "profitGrowth": 186.48
+    },
+    {
+      "code": "002028",
+      "name": "思源电气",
+      "roe": 3.4795,
+      "grossMargin": 28.95,
+      "netMargin": 12.5155,
+      "revenueGrowth": 41.5956,
+      "profitGrowth": 23.4
+    },
+    {
+      "code": "600893",
+      "name": "航发动力",
+      "roe": 0.0064,
+      "grossMargin": 10.91,
+      "netMargin": 0.2713,
+      "revenueGrowth": 14.7995,
+      "profitGrowth": -45.34
+    },
+    {
+      "code": "002938",
+      "name": "鹏鼎控股",
+      "roe": 1.3454,
+      "grossMargin": 22.95,
+      "netMargin": 5.5796,
+      "revenueGrowth": -1.2486,
+      "profitGrowth": -8.38
+    },
+    {
+      "code": "600115",
+      "name": "中国东航",
+      "roe": 4.2361,
+      "grossMargin": 8.25,
+      "netMargin": 4.6438,
+      "revenueGrowth": 10.9382,
+      "profitGrowth": 252.3
+    },
+    {
+      "code": "600023",
+      "name": "浙能电力",
+      "roe": 1.2327,
+      "grossMargin": 5.45,
+      "netMargin": 4.6821,
+      "revenueGrowth": -11.0236,
+      "profitGrowth": -38.53
+    },
+    {
+      "code": "600875",
+      "name": "东方电气",
+      "roe": 3.4423,
+      "grossMargin": 17.18,
+      "netMargin": 9.093,
+      "revenueGrowth": 5.6804,
+      "profitGrowth": 27.48
+    },
+    {
+      "code": "302132",
+      "name": "中航成飞",
+      "roe": 0.9042,
+      "grossMargin": 9.71,
+      "netMargin": 3.0389,
+      "revenueGrowth": 79.7116,
+      "profitGrowth": 13.93
+    },
+    {
+      "code": "000792",
+      "name": "盐湖股份",
+      "roe": 6.6542,
+      "grossMargin": 68.72,
+      "netMargin": 54.256,
+      "revenueGrowth": 94.892,
+      "profitGrowth": 176.89
+    },
+    {
+      "code": "300803",
+      "name": "指南针",
+      "roe": 3.9333,
+      "grossMargin": 89.98,
+      "netMargin": 21.3116,
+      "revenueGrowth": 22.2585,
+      "profitGrowth": -20
+    },
+    {
+      "code": "688012",
+      "name": "中微公司",
+      "roe": 3.9592,
+      "grossMargin": 39.89,
+      "netMargin": 31.5075,
+      "revenueGrowth": 34.1285,
+      "profitGrowth": 197.96
+    },
+    {
+      "code": "600930",
+      "name": "华电新能",
+      "roe": 1.5002,
+      "grossMargin": 40.81,
+      "netMargin": 22.0403,
+      "revenueGrowth": 9.9644,
+      "profitGrowth": -25.81
+    },
+    {
+      "code": "600118",
+      "name": "中国卫星",
+      "roe": -0.6728,
+      "grossMargin": 14.02,
+      "netMargin": -7.6836,
+      "revenueGrowth": 37.8932,
+      "profitGrowth": -65.99
+    },
+    {
+      "code": "603260",
+      "name": "合盛硅业",
+      "roe": 0.2637,
+      "grossMargin": 19.08,
+      "netMargin": 1.5394,
+      "revenueGrowth": -4.2492,
+      "profitGrowth": -69.61
+    },
+    {
+      "code": "002625",
+      "name": "光启技术",
+      "roe": 1.8156,
+      "grossMargin": 49.85,
+      "netMargin": 33.7233,
+      "revenueGrowth": 40.2793,
+      "profitGrowth": 17.03
+    },
+    {
+      "code": "600549",
+      "name": "厦门钨业",
+      "roe": 6.2352,
+      "grossMargin": 21,
+      "netMargin": 10.6849,
+      "revenueGrowth": 86.9907,
+      "profitGrowth": 186.87
+    },
+    {
+      "code": "601689",
+      "name": "拓普集团",
+      "roe": 2.2668,
+      "grossMargin": 19.26,
+      "netMargin": 8.3487,
+      "revenueGrowth": 14.9212,
+      "profitGrowth": -2.23
+    },
+    {
+      "code": "300274",
+      "name": "阳光电源",
+      "roe": 4.81,
+      "grossMargin": 33.26,
+      "netMargin": 14.4334,
+      "revenueGrowth": -18.2587,
+      "profitGrowth": -40.79
+    },
+    {
+      "code": "300418",
+      "name": "昆仑万维",
+      "roe": -6.9751,
+      "grossMargin": 66.23,
+      "netMargin": -42.0249,
+      "revenueGrowth": 45.6913,
+      "profitGrowth": -16.2
+    },
+    {
+      "code": "601138",
+      "name": "工业富联",
+      "roe": 6.1778,
+      "grossMargin": 7.35,
+      "netMargin": 4.2204,
+      "revenueGrowth": 56.5178,
+      "profitGrowth": 101.78
+    },
+    {
+      "code": "300661",
+      "name": "圣邦股份",
+      "roe": 2.2985,
+      "grossMargin": 51.63,
+      "netMargin": 11.1797,
+      "revenueGrowth": 39.0812,
+      "profitGrowth": 109.29
+    },
+    {
+      "code": "688041",
+      "name": "海光信息",
+      "roe": 2.988,
+      "grossMargin": 55.6,
+      "netMargin": 21.7514,
+      "revenueGrowth": 68.0559,
+      "profitGrowth": 22.9
+    },
+    {
+      "code": "601100",
+      "name": "恒立液压",
+      "roe": 3.7092,
+      "grossMargin": 38.57,
+      "netMargin": 20.3519,
+      "revenueGrowth": 32.5214,
+      "profitGrowth": 5.57
+    },
+    {
+      "code": "600460",
+      "name": "士兰微",
+      "roe": 1.7284,
+      "grossMargin": 19.79,
+      "netMargin": 4.207,
+      "revenueGrowth": 17.3123,
+      "profitGrowth": 65.36
+    },
+    {
+      "code": "300124",
+      "name": "汇川技术",
+      "roe": 2.8255,
+      "grossMargin": 29.08,
+      "netMargin": 10.0839,
+      "revenueGrowth": 12.9798,
+      "profitGrowth": -23.87
+    },
+    {
+      "code": "600346",
+      "name": "恒力石化",
+      "roe": 5.6884,
+      "grossMargin": 13.98,
+      "netMargin": 7.9475,
+      "revenueGrowth": -13.737,
+      "profitGrowth": 90.56
+    },
+    {
+      "code": "002179",
+      "name": "中航光电",
+      "roe": 1.6276,
+      "grossMargin": 28,
+      "netMargin": 8.7822,
+      "revenueGrowth": 0.6939,
+      "profitGrowth": -36.4
+    },
+    {
+      "code": "002050",
+      "name": "三花智控",
+      "roe": 2.8819,
+      "grossMargin": 27.8,
+      "netMargin": 12.2321,
+      "revenueGrowth": 1.3574,
+      "profitGrowth": 2.97
+    },
+    {
+      "code": "688396",
+      "name": "华润微",
+      "roe": 1.4308,
+      "grossMargin": 25.48,
+      "netMargin": 10.5696,
+      "revenueGrowth": 21.3401,
+      "profitGrowth": 481.39
+    },
+    {
+      "code": "002463",
+      "name": "沪电股份",
+      "roe": 7.7867,
+      "grossMargin": 35.63,
+      "netMargin": 19.9776,
+      "revenueGrowth": 53.9061,
+      "profitGrowth": 63.35
+    },
+    {
+      "code": "600522",
+      "name": "中天科技",
+      "roe": 2.4331,
+      "grossMargin": 15.58,
+      "netMargin": 7.209,
+      "revenueGrowth": 34.7112,
+      "profitGrowth": 51.84
+    },
+    {
+      "code": "002384",
+      "name": "东山精密",
+      "roe": 5.0337,
+      "grossMargin": 19.33,
+      "netMargin": 8.5567,
+      "revenueGrowth": 52.7234,
+      "profitGrowth": 146.24
+    },
+    {
+      "code": "688047",
+      "name": "龙芯中科",
+      "roe": -4.6469,
+      "grossMargin": 34.87,
+      "netMargin": -84.4821,
+      "revenueGrowth": 7.9623,
+      "profitGrowth": 24.66
+    },
+    {
+      "code": "002602",
+      "name": "世纪华通",
+      "roe": 6.4398,
+      "grossMargin": 72.05,
+      "netMargin": 18.6083,
+      "revenueGrowth": 35.1855,
+      "profitGrowth": 47.81
+    },
+    {
+      "code": "603986",
+      "name": "兆易创新",
+      "roe": 6.5999,
+      "grossMargin": 57.08,
+      "netMargin": 35.1597,
+      "revenueGrowth": 119.3787,
+      "profitGrowth": 514.25
+    },
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "roe": 14.5175,
+      "grossMargin": 49.16,
+      "netMargin": 33.2721,
+      "revenueGrowth": 105.7595,
+      "profitGrowth": 76.42
+    },
+    {
+      "code": "000657",
+      "name": "中钨高新",
+      "roe": 9.0278,
+      "grossMargin": 30.45,
+      "netMargin": 14.1333,
+      "revenueGrowth": 106.4716,
+      "profitGrowth": 314.24
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "roe": 5.6142,
+      "grossMargin": 19.81,
+      "netMargin": 15.0988,
+      "revenueGrowth": 27.1313,
+      "profitGrowth": 58.38
+    },
+    {
+      "code": "002709",
+      "name": "天赐材料",
+      "roe": 8.9589,
+      "grossMargin": 38.65,
+      "netMargin": 24.6846,
+      "revenueGrowth": 91.2908,
+      "profitGrowth": 1017.81
+    },
+    {
+      "code": "002916",
+      "name": "深南电路",
+      "roe": 4.8254,
+      "grossMargin": 29.17,
+      "netMargin": 12.907,
+      "revenueGrowth": 37.8994,
+      "profitGrowth": 73.01
+    },
+    {
+      "code": "688008",
+      "name": "澜起科技",
+      "roe": 5.0186,
+      "grossMargin": 69.79,
+      "netMargin": 56.8026,
+      "revenueGrowth": 19.5146,
+      "profitGrowth": 64.72
+    },
+    {
+      "code": "600176",
+      "name": "中国巨石",
+      "roe": 3.9985,
+      "grossMargin": 39.64,
+      "netMargin": 24.8833,
+      "revenueGrowth": 17.9291,
+      "profitGrowth": 72.31
+    },
+    {
+      "code": "300014",
+      "name": "亿纬锂能",
+      "roe": 3.3523,
+      "grossMargin": 14.04,
+      "netMargin": 6.9778,
+      "revenueGrowth": 61.6102,
+      "profitGrowth": 23.89
+    },
+    {
+      "code": "601698",
+      "name": "中国卫通",
+      "roe": 0.168,
+      "grossMargin": 19.04,
+      "netMargin": 7.7603,
+      "revenueGrowth": 0.7069,
+      "profitGrowth": -56.63
+    },
+    {
+      "code": "600150",
+      "name": "中国船舶",
+      "roe": 3.2989,
+      "grossMargin": 17.48,
+      "netMargin": 11.9373,
+      "revenueGrowth": 54.8968,
+      "profitGrowth": 305.17
+    },
+    {
+      "code": "600111",
+      "name": "北方稀土",
+      "roe": 3.6531,
+      "grossMargin": 13.22,
+      "netMargin": 8.8301,
+      "revenueGrowth": 27.6936,
+      "profitGrowth": 81.29
+    },
+    {
+      "code": "600482",
+      "name": "中国动力",
+      "roe": 1.4538,
+      "grossMargin": 18.91,
+      "netMargin": 9.1146,
+      "revenueGrowth": 4.4538,
+      "profitGrowth": 52.1
+    },
+    {
+      "code": "603799",
+      "name": "华友钴业",
+      "roe": 5.055,
+      "grossMargin": 20.69,
+      "netMargin": 12.216,
+      "revenueGrowth": 44.6238,
+      "profitGrowth": 81.56
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "roe": 38.548,
+      "grossMargin": 55.53,
+      "netMargin": 40.1602,
+      "revenueGrowth": 132.7928,
+      "profitGrowth": 2884.35
+    },
+    {
+      "code": "002837",
+      "name": "英维克",
+      "roe": 0.2507,
+      "grossMargin": 24.29,
+      "netMargin": 1.2049,
+      "revenueGrowth": 26.0291,
+      "profitGrowth": -73.96
+    },
+    {
+      "code": "300442",
+      "name": "润泽科技",
+      "roe": 4.1673,
+      "grossMargin": 46.8,
+      "netMargin": 31.8401,
+      "revenueGrowth": 53.5532,
+      "profitGrowth": 37.38
+    },
+    {
+      "code": "300408",
+      "name": "三环集团",
+      "roe": 3.5905,
+      "grossMargin": 43.49,
+      "netMargin": 29.4967,
+      "revenueGrowth": 46.2513,
+      "profitGrowth": 48.4
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "roe": 4.2116,
+      "grossMargin": 11.92,
+      "netMargin": 4.7297,
+      "revenueGrowth": 35.7689,
+      "profitGrowth": 17.49
+    },
+    {
+      "code": "002202",
+      "name": "金风科技",
+      "roe": 2.0584,
+      "grossMargin": 16.76,
+      "netMargin": 6.5066,
+      "revenueGrowth": 63.4791,
+      "profitGrowth": 50.83
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "roe": -10.3844,
+      "grossMargin": 32.29,
+      "netMargin": -40.7834,
+      "revenueGrowth": 114.4735,
+      "profitGrowth": -54.69
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "roe": 7.4894,
+      "grossMargin": 35.21,
+      "netMargin": 18.4487,
+      "revenueGrowth": 52.6209,
+      "profitGrowth": 122.16
+    },
+    {
+      "code": "000338",
+      "name": "潍柴动力",
+      "roe": 3.2727,
+      "grossMargin": 21.43,
+      "netMargin": 6.3662,
+      "revenueGrowth": 8.8741,
+      "profitGrowth": 41.15
+    },
+    {
+      "code": "002600",
+      "name": "领益智造",
+      "roe": 1.6172,
+      "grossMargin": 16.54,
+      "netMargin": 3.1702,
+      "revenueGrowth": 9.9936,
+      "profitGrowth": -29.43
+    },
+    {
+      "code": "300308",
+      "name": "中际旭创",
+      "roe": 17.5495,
+      "grossMargin": 46.06,
+      "netMargin": 32.3998,
+      "revenueGrowth": 192.1169,
+      "profitGrowth": 273.66
+    },
+    {
+      "code": "300450",
+      "name": "先导智能",
+      "roe": 2.6147,
+      "grossMargin": 33.61,
+      "netMargin": 10.5485,
+      "revenueGrowth": 19.113,
+      "profitGrowth": 10.94
+    },
+    {
+      "code": "300476",
+      "name": "胜宏科技",
+      "roe": 7.5741,
+      "grossMargin": 34.46,
+      "netMargin": 23.3433,
+      "revenueGrowth": 27.9928,
+      "profitGrowth": 39.95
+    },
+    {
+      "code": "688256",
+      "name": "寒武纪",
+      "roe": 8.2017,
+      "grossMargin": 54.33,
+      "netMargin": 35.1207,
+      "revenueGrowth": 159.5555,
+      "profitGrowth": 185.2
+    },
+    {
+      "code": "002353",
+      "name": "杰瑞股份",
+      "roe": 2.5292,
+      "grossMargin": 33.62,
+      "netMargin": 17.9141,
+      "revenueGrowth": 22.4807,
+      "profitGrowth": 23.35
+    },
+    {
+      "code": "002466",
+      "name": "天齐锂业",
+      "roe": 4.2273,
+      "grossMargin": 62.66,
+      "netMargin": 55.4035,
+      "revenueGrowth": 98.4383,
+      "profitGrowth": 263.1
+    },
+    {
+      "code": "300316",
+      "name": "晶盛机电",
+      "roe": 0.5973,
+      "grossMargin": 29.44,
+      "netMargin": 5.498,
+      "revenueGrowth": -44.8823,
+      "profitGrowth": -82.98
+    },
+    {
+      "code": "002460",
+      "name": "赣锋锂业",
+      "roe": 4.0113,
+      "grossMargin": 29.72,
+      "netMargin": 20.9009,
+      "revenueGrowth": 143.8135,
+      "profitGrowth": 486.67
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "roe": 8.5709,
+      "grossMargin": 56.6,
+      "netMargin": 37.0053,
+      "revenueGrowth": 40.8243,
+      "profitGrowth": 45.76
+    }
+  ]
+}
